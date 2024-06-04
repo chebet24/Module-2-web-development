@@ -1,8 +1,8 @@
 //just the basics of the js
 // creating a storage space 
-var height,width,total;
-height = 180;
-width = 60;
-total = height * width ;
+var math = 80,english=40,kiswahili = 65,total ;
 
-document.write("The multiplication of height and width is ",total);
+total = math + english +kiswahili ;
+
+document.write("The sum of the results are  ",total);
+
